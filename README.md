@@ -45,7 +45,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-The Simple Ad Blocker Chrome extension was created by Janhavi. Special thanks to the developers of the `declarativeNetRequest` API and the libraries used in this project.
+The Simple Ad Blocker Chrome extension was created by 'Janhavi'. Special thanks to the developers of the `declarativeNetRequest` API and the libraries used in this project.
 
 
 
